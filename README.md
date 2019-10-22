@@ -32,7 +32,7 @@ Using Django Web framwork in Python and SQLite for database, we created a local 
 ![kitsu](api.png)
 
 ## Challenges we ran into/What we learned
-As we created the application, we learned React at the spot. Not only did we learn how to intergrate front end and back end with the API data but also did we learn how to design a website using UI packages.
+As we created the application, we learned React, Django, and RESTful API at the spot. Not only did we learn how to intergrate front end and back end with the Kitsuo API data but also did we learn how to design a website using UI packages.
 
 ## What's next for WeebsMeetNeets
 Create a map of all weebs and NEETs around the world; App that allows people to watch anime together; Helping weebs find Facebook, Discord groups about anime so they can find a sense of belonging. 
